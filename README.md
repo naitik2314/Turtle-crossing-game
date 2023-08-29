@@ -31,5 +31,17 @@ Your goal is to reach higher levels by succesfully crossing the road without get
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/turtle-crossing-game.git
+   git clone https://github.com/naitik2314/turtle-crossing-game.git
+
+2. Navigate to the project folder:
+
+   ```bash
+   cd turtle-crossing-game
+
+3. Run the game:
+
+   ```bash
+   python3 main.py #For Linux/Mac
+   python main.py #For Windows
+   
 
