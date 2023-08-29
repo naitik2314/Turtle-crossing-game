@@ -43,5 +43,21 @@ Your goal is to reach higher levels by succesfully crossing the road without get
    ```bash
    python3 main.py #For Linux/Mac
    python main.py #For Windows
-   
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
+
+1. For the repository
+2. Create a new branch of your feature or bug fix:
+   ```bash
+   git checkout -b feature-name
+3. Make your changes and commit them:
+   ```bash
+   git commit -m "Add feature or fix bug"
+4. Push to your forked repository:
+   ```bash
+   git push origin feature-name
+
+
 
